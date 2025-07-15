@@ -1,3 +1,5 @@
 {
-  "gtrading": true
+  "DFFlag_GTrading": true,
+  "DFFlag_LegendaryChance": 1,
+  "DFFlag_RenderOtherBees": true
 }
