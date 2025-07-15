@@ -1,5 +1,7 @@
 {
   "DFFlag_GTrading": true,
   "DFFlag_LegendaryChance": 1,
-  "DFFlag_RenderOtherBees": true
+  "DFFlag_RenderOtherBees": true,
+  "DFFlag_CollectData": true,
+  "DFFlag_BeesUpdateTimer": 120
 }
